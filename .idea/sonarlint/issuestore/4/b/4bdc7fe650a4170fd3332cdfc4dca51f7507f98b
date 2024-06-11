@@ -1,12 +1,14 @@
 
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥“€ øÿÿÿÿ8´¤åÃü1J$856e8a12-100c-4431-8aef-3e9b9b48aca1
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥“€ øÿÿÿÿ8êÊşÃü1J$21a0bad3-ae6d-4b1d-9bb6-1df24602230c
-	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(¥“€ øÿÿÿÿ8óÿÃü1J$7f6e52c1-42f3-4b0a-b187-bb67d3375d68
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥“€ øÿÿÿÿ8´¤åÃü1J$5318c61e-7c76-42e9-8385-85f1b0b5f219
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¥“€ øÿÿÿÿ8êÊşÃü1J$7243fb69-f937-457c-bfb0-b3e43dbb091c
+	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(¥“€ øÿÿÿÿ8óÿÃü1J$2e0784d6-6a57-44ed-8768-638bff719a05
 š
-java:S1192"RDefine a constant instead of duplicating this literal "Kesalahan pada ID" 3 times.(¥“€ øÿÿÿÿ8øÿÃü1J$eea64f86-3d37-426f-8312-7ad3744f238f
+java:S1192"RDefine a constant instead of duplicating this literal "Kesalahan pada ID" 3 times.(¥“€ øÿÿÿÿ8øÿÃü1J$e29505ea-b115-4e19-8701-85c4c2e69671
 ¡
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8È¤åÃü1J$ac6eafb8-b404-45db-a8a1-05ba26c3c038
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8È¤åÃü1J$31d2f47a-da5a-42a6-9f47-aef967195097
 ¡
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8øÊşÃü1J$548e462b-9bdf-453d-a23f-3ee357facb99
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8øÊşÃü1J$84c9e3e4-bfee-439f-bab8-ff897c2a34d8
 ¡
-java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‹ÿÃü1J$2efb4d6c-5202-461b-ae96-fd2d5d3d1911
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‹ÿÃü1J$4268f2ff-d4cb-4b21-9f90-f5f10a30bd0f
+v
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8ó—ˆı1J$dd17e676-2b0a-4973-b63f-19b0a7889705

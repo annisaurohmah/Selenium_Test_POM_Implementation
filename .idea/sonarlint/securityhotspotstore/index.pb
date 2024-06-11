@@ -23,3 +23,9 @@ W
 'src/main/java/objects/ResultObject.java,c\a\caf88951fee16c655d7fe81432b7d9b70cb48e71
 V
 &src/main/java/objects/LoginObject.java,5\0\50adde6c8da5d8cef21a2921e727e22e3c922f5a
+^
+.src/test/java/stepDefinitions/searchSteps.java,6\3\63d9f5199e3c3ad2208183b5c4e929d46c08103b
+X
+(src/test/java/testRunner/testRunner.java,7\d\7d0f84fb1b73aa0c9495e137ad5ef7bcc120fd6e
+@
+SeleniumTest.iml,1\6\16e4a4c4f3d375e2fcb17e9d9f72e31c3cba88c3

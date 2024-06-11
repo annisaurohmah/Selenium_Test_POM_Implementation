@@ -8,13 +8,11 @@ public class LoginPage {
     LoginObject loginObject;
     BasePage pages;
     WebDriver driver;
-
     public LoginPage(WebDriver driver) {
         this.driver = driver;
         pages = new BasePage(driver);
         loginObject = new LoginObject(driver);
     }
-
     public void enterUsername(String username){
         try {
             pages.inputText(loginObject.getUsernameField(), username);
